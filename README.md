@@ -20,4 +20,4 @@ Please fork this repo and then issue pull request for review.
 
 ### Copyright
 
-2020. Saurav.Git copyright.
+2020. Saurav.Git copyright. All rights reserved.
